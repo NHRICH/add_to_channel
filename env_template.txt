@@ -1,0 +1,25 @@
+# Telegram API Credentials
+# Get these from https://my.telegram.org/apps
+TG_API_ID=your_api_id_here
+TG_API_HASH=your_api_hash_here
+
+# Your phone number (with country code, e.g., +1234567890)
+TG_PHONE=+1234567890
+
+# Session name (optional, defaults to 'telegram_session')
+TG_SESSION_NAME=telegram_session
+
+# Target channel (username with @ or channel ID like -1001234567890)
+# Examples: @my_channel or -1001234567890
+TG_TARGET_CHANNEL=@your_channel_name
+
+# CSV file path (optional, defaults to 'telegram_users.csv')
+TG_CSV=telegram_users.csv
+
+# Output file for results (optional, defaults to 'invite_results.csv')
+OUTPUT_FILE=invite_results.csv
+
+# Batch settings (optional)
+BATCH_SIZE=10
+BATCH_DELAY=5
+
