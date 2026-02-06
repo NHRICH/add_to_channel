@@ -1,0 +1,11 @@
+Hello! I noticed you are interested in our channel content. Since I can't add you directly due to privacy settings, here is the link: {link}
+
+Hi there {first_name}! We'd love to have you in our channel. Join here: {link}
+
+Hey! Check out our channel for updates: {link}
+
+Hello! I noticed you are interested in our channel content. Since I can't add you directly due to privacy settings, here is the link: {link}
+
+Hi there {first_name}! We'd love to have you in our channel. Join here: {link}
+
+Hey! Check out our channel for updates: {link}
