@@ -8,6 +8,7 @@ import asyncio
 import os
 import csv
 import random
+import re
 from datetime import datetime
 from typing import List, Dict, Set
 from dotenv import load_dotenv
@@ -430,7 +431,6 @@ async def main():
     finally:
         await client.disconnect()
         print("✓ Disconnected from Telegram")
-
 
 if __name__ == "__main__":
     asyncio.run(main())
